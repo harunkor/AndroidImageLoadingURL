@@ -1,7 +1,7 @@
 # AndroidImageLoadingURL
 
 Library for url image loading  on imageview - Android.
-Simple android imageView to display url image efficiently. You can load image url, clear cache url and all clear cache images gifView. Example usages can be found in example project.
+Simple android imageView to display url image efficiently. You can load image url, clear cache url and all clear cache  url images. Example usages can be found in example project.
 
 # Screen
 
