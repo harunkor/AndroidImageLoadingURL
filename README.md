@@ -5,7 +5,7 @@ Simple android imageView to display url image efficiently. You can load image ur
 
 # Screen
 
-
+![](https://github.com/harunkor/AndroidImageLoadingURL/blob/master/AndroidImageLoadingURL.gif?raw=true)
 
 # Usage
 
