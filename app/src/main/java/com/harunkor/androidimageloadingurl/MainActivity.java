@@ -16,6 +16,10 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         magicImageView= (MagicImageView) findViewById(R.id.imageView);
 
+
+        // url set progress animation-list
+        magicImageView.setProgress(R.drawable.magic_progress);
+
         //url image  load set.
        magicImageView.load("https://i.imgur.com/XGbwZnb.jpg",true);
 
@@ -24,6 +28,8 @@ public class MainActivity extends AppCompatActivity {
 
         // url all images clear cache.
        magicImageView.allClearCache();
+
+
 
 
 
